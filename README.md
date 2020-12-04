@@ -21,6 +21,6 @@ This repository contains:
    * You can find the application here: [http://ec2-3-134-101-50.us-east-2.compute.amazonaws.com:3000/](http://ec2-3-134-101-50.us-east-2.compute.amazonaws.com:3000/)
 2. To manually install project on local system:
    * Download, install and run the backend Springboot application.
-   The installation steps are [found here](https://github.com/SER531-Team07/BackEnd/blob/master/README.md).
+   The installation steps are [found here](https://github.com/SER531-Team07/BackEnd/).
    * Download, install and run the frontend web application.
-   The installation steps are [found here](https://github.com/SER531-Team07/FrontEnd/blob/main/README.md)
+   The installation steps are [found here](https://github.com/SER531-Team07/FrontEnd/)
